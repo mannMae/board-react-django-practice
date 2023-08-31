@@ -1,5 +1,15 @@
 import { styled } from 'styled-components';
 
-export const Label = styled.label``;
+export const Label = styled.label`
+  display: flex;
+  align-items: center;
+  gap: 10px;
 
-export const Input = styled.input``;
+  font-size: 20px;
+  font-weight: 600;
+`;
+
+export const Input = styled.input`
+  height: 30px;
+  width: 200px;
+`;

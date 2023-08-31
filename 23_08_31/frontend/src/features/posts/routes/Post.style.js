@@ -2,6 +2,8 @@ import { styled } from 'styled-components';
 
 export const Wrapper = styled.section``;
 
+export const Buttons = styled.div``;
+
 export const Box = styled.div`
   margin: 10px;
   border: 1px solid tomato;
