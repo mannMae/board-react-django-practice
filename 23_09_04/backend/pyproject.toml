@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "23-09-04"
+name = "backend"
 version = "0.1.0"
 description = ""
 authors = ["Jaeman Kim <daga4242@gmail.com>"]
